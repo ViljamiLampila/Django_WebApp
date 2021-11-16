@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Django_example",
+    "\\Django_example\\HTML",
     "\\Django_WebApp"
   ],
-  "SelectedNode": "\\Django_WebApp\\settings.py",
+  "SelectedNode": "\\Django_example\\models.py",
   "PreviewInSolutionExplorer": false
 }

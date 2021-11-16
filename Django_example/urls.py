@@ -1,9 +1,8 @@
-from django.conf.urls import url
+from django.conf.urls import url, include
+from django.contrib import admin
 from django.urls import path
-from Django_example import views
 
 urlpatterns = [
-    path('', views.index, name='index'),
-    
-
+    path('', include('Django_example.urls')),
+    path('admin/', admin.site.urls),
 ]
