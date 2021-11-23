@@ -1,0 +1,20 @@
+html {
+}
+
+div#header {
+    background-image: linear-gradient(to right, aqua, azure);
+    height: 80px;
+    width: 100%;
+    margin-top: -10px;
+}
+
+div#main {
+    border: solid 2px blue;
+    min-height: 500px;
+}
+
+div#footer {
+    border: 2px solid red;
+    height: 100px;
+}
+

@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Django_example",
+    "\\Django_example\\CSS",
     "\\Django_example\\HTML",
+    "\\Django_example\\JS",
     "\\Django_WebApp"
   ],
-  "SelectedNode": "\\Django_example\\HTML",
+  "SelectedNode": "\\Django_example\\CSS\\styles.css",
   "PreviewInSolutionExplorer": false
 }
